@@ -1,0 +1,32 @@
+C:\Users\UNIT001\Desktop\C# Training\Celle\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\Users\UNIT001\Desktop\C# Training\Celle\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\Users\UNIT001\Desktop\C# Training\Celle\CRUD\CRUD\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\UNIT001\Desktop\C# Training\Celle\CRUD\CRUD\obj\Debug\CRUD.frmAddEdit.resources
+C:\Users\UNIT001\Desktop\C# Training\Celle\CRUD\CRUD\obj\Debug\CRUD.frmLogin.resources
+C:\Users\UNIT001\Desktop\C# Training\Celle\CRUD\CRUD\obj\Debug\CRUD.frmMain.resources
+C:\Users\UNIT001\Desktop\C# Training\Celle\CRUD\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+C:\Users\UNIT001\Desktop\C# Training\Celle\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.Cache
+C:\Users\UNIT001\Desktop\C# Training\Celle\CRUD\CRUD\obj\Debug\CRUD.exe
+C:\Users\UNIT001\Desktop\C# Training\Celle\CRUD\CRUD\obj\Debug\CRUD.pdb
+D:\STI Files\AY1617\1st Sem\C#\C-Training-Celle\C# Training\Celle\CRUD\CRUD\obj\Debug\CRUD.exe
+D:\STI Files\AY1617\1st Sem\C#\C-Training-Celle\C# Training\Celle\CRUD\CRUD\obj\Debug\CRUD.pdb
+D:\STI Files\AY1617\1st Sem\C#\C-Training-Celle\C# Training\Celle\CRUD\CRUD\bin\Debug\CRUD.exe
+D:\STI Files\AY1617\1st Sem\C#\C-Training-Celle\C# Training\Celle\CRUD\CRUD\bin\Debug\CRUD.pdb
+D:\STI Files\AY1617\1st Sem\C#\C-Training-Celle\C# Training\Celle\CRUD\CRUD\obj\Debug\ResolveAssemblyReference.cache
+D:\STI Files\AY1617\1st Sem\C#\C-Training-Celle\C# Training\Celle\CRUD\CRUD\obj\Debug\CRUD.frmAddEdit.resources
+D:\STI Files\AY1617\1st Sem\C#\C-Training-Celle\C# Training\Celle\CRUD\CRUD\obj\Debug\CRUD.frmLogin.resources
+D:\STI Files\AY1617\1st Sem\C#\C-Training-Celle\C# Training\Celle\CRUD\CRUD\obj\Debug\CRUD.frmMain.resources
+D:\STI Files\AY1617\1st Sem\C#\C-Training-Celle\C# Training\Celle\CRUD\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+D:\STI Files\AY1617\1st Sem\C#\C-Training-Celle\C# Training\Celle\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.Cache
+C:\Users\MarkTagle\Desktop\CRUD\CRUD\CRUD\obj\Debug\CRUD.exe
+C:\Users\MarkTagle\Desktop\CRUD\CRUD\CRUD\obj\Debug\CRUD.pdb
+C:\Users\MarkTagle\Desktop\CRUD\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\Users\MarkTagle\Desktop\CRUD\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\Users\MarkTagle\Desktop\CRUD\CRUD\CRUD\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MarkTagle\Desktop\CRUD\CRUD\CRUD\obj\Debug\CRUD.frmAddEdit.resources
+C:\Users\MarkTagle\Desktop\CRUD\CRUD\CRUD\obj\Debug\CRUD.frmLogin.resources
+C:\Users\MarkTagle\Desktop\CRUD\CRUD\CRUD\obj\Debug\CRUD.frmMain.resources
+C:\Users\MarkTagle\Desktop\CRUD\CRUD\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+C:\Users\MarkTagle\Desktop\CRUD\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.Cache
+E:\Libraries\Programs\CRUD C#\CRUD\CRUD\obj\Debug\CRUD.exe
+E:\Libraries\Programs\CRUD C#\CRUD\CRUD\obj\Debug\CRUD.pdb
